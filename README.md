@@ -6,7 +6,7 @@ Current Status: Needs updating and possible conversion to website...
 
 ### Catergories
 
-* [Community Organizations](https://github.com/shanicesmith98/techresources/blob/master/README.md#community-organizations) - Virtual and Offline Communities
+* [Community Organizations](https://github.com/shanicesmith98/techresources/blob/master/README.md#community-organizations) - Virtual and Offline Communities :D
 * [Technical Programs](https://github.com/shanicesmith98/techresources/blob/master/README.md#technical-programs) - Free programs to learn programming
 * [Mentorship Programs](https://github.com/shanicesmith98/techresources/blob/master/README.md#mentorship-programs) - Online and in-person Mentorship programs
 * [Conferences](https://github.com/shanicesmith98/techresources/blob/master/README.md#conferences) - Student-friendly conferences across the USA
